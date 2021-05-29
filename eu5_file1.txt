@@ -3,3 +3,5 @@ EU5 is learning Git and GitHub
 EU5 liked the short videos 
 
 How about to add some more lines
+
+commit to remote repo
